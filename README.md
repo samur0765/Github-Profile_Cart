@@ -12,13 +12,13 @@ Bu proje, bir kullanıcının GitHub profil verilerini GitHub API'ı üzerinden 
 
 ⚡ Hızlı ve sade arayüz
 
-🛠️ <h2>Kullanılan Teknolojiler</h2>
+🛠️<h2>Kullanılan Teknolojiler</h2>
 
 HTML5
 
-CSS3 (veya Tailwind / Bootstrap kullandıysan belirt)
+CSS
 
-JavaScript (veya React / Vue vs.)
+JavaScript
 
 GitHub REST API
 
